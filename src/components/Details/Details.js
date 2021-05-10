@@ -15,7 +15,9 @@ const Details = ({ title }) => {
       <CardHeader title={title} />
       <CardContent>
         <Typography variant="h5">${total}</Typography>
-        <Doughnut data={chartData} />
+        <div>
+          <Doughnut data={chartData} />
+        </div>
       </CardContent>
     </Card>
   );

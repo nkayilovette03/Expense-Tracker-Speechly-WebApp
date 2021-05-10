@@ -12,6 +12,8 @@ const incomeColors = [
 const expenseColors = [
   "#b50d12",
   "#bf2f1f",
+  "#f55b5f",
+  "#cc474b",
   "#c9452c",
   "#d3583a",
   "#dc6a48",
@@ -19,8 +21,6 @@ const expenseColors = [
   "#ee8d68",
   "#f79d79",
   "#ffae8a",
-  "#cc474b",
-  "#f55b5f",
 ];
 
 export const incomeCategories = [
